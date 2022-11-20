@@ -1,30 +1,25 @@
 # Crazy Balls Game
 
-The Crazy Balls Game is a project of simple game created in autumn 2020. The game was made entirely in pygame library.
-The idea of the game is pretty simple. You are a white ball and you want take as many white squeres as you can. You can't be touched by color balls.
-The game has a simple system for storing high scores.
+The Epic Battle is a game created in summer 2020. The game was made entirely in pygame library.
+It is a fighting game. There are two characters. Each of them can can freeliy move, jump and execute one of two types of attack.
 
 ## Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Game description
-
-The game starts with you (white ball), the white squere (which has to be taken) and the color ball (your enemy).
-After you capture the squere, a new ball is created and you score one point. 
-There are four types of randomly generated balls: 
-
->The purple ball bounces off the edge of the board and runs in straight lines. 
-
->The green ball jumps and moves in arcs.
-
->The yellow ball protects the squere.
-
->The blue ball follows the player.
-
 ## Gameplay
 
-![gameplay](https://github.com/Propsowicz/Crazy_Balls-Game/blob/master/pictures/play.gif?raw=true)
+Here is gameplay of me and my wife (unfortunately she lost :()
+
+![gameplay](https://github.com/Propsowicz/Epic-Battle/blob/main/pictures/gameplay.gif?raw=true)
+
+## Credits
+
+The game was created from free asstets:
+
+>graphics: https://craftpix.net/
+
+>sound: https://creativecommons.org/
 
 ## Installation
 
