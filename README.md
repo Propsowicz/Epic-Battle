@@ -1,7 +1,7 @@
 # Crazy Balls Game
 
 The Epic Battle is a game created in summer 2020. The game was made entirely in pygame library.
-It is a fighting game. There are two characters. Each of them can can freeliy move, jump and execute one of two types of attack.
+It is a fighting game. There are two characters. Each of them can freely move, jump and perform one of two types of attacks.
 
 ## Technologies
 
@@ -9,13 +9,13 @@ It is a fighting game. There are two characters. Each of them can can freeliy mo
 
 ## Gameplay
 
-Here is gameplay of me and my wife (unfortunately she lost :()
+Here is gameplay of me and my wife - unfortunately she lost :(.
 
 ![gameplay](https://github.com/Propsowicz/Epic-Battle/blob/main/pictures/gameplay.gif?raw=true)
 
 ## Credits
 
-The game was created from free asstets:
+The game was created using free asstets:
 
 >graphics: https://craftpix.net/
 
