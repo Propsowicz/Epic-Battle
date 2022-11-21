@@ -15,7 +15,7 @@ Here is gameplay of me and my wife - unfortunately she lost :(.
 
 ## Credits
 
-The game was created using free asstets:
+The game was created using free assets:
 
 >graphics: https://craftpix.net/
 
